@@ -1,0 +1,18 @@
+# Ian Brewer
+**Hardware Design | Embedded Systems | Networking**
+
+I am an independent hardware developer and networking student specializing in custom embedded systems, IoT automation, and electro-acoustic prototyping. My projects bridge the gap between physical hardware fabrication and network-integrated software.
+
+## Current Prototyping Focus
+* **Active Audio Electronics:** Designing custom active crossover networks and pre-amplifiers for multi-way speaker enclosures (currently testing implementations with high-fidelity drivers like the Dayton Audio RS180P-4).
+* **Appliance Telemetry:** Developing non-invasive, CT-clamp and accelerometer-based (MPU-6050) monitoring systems for heavy appliances using custom ESP32-C3 and ESP32-C6 integrations.
+* **Legacy Hardware Restoration:** Firmware modification and architectural preservation for legacy consoles and microcontroller-based emulators.
+
+## Technical Stack & Fabrication
+* **Embedded Hardware:** ESP32 series, Raspberry Pi Pico, custom PCB specification and procurement.
+* **CAD & Rapid Prototyping:** Solidworks, additive manufacturing (Bambu Lab P1S).
+* **Infrastructure & Automation:** TrueNAS, Linux (Ubuntu, Alpine), ESPHome, Home Assistant.
+
+## Contact
+* **Email:** [Your Custom Email Here, e.g., icbre123@brewski.com]
+* **Location:** Utah, United States
